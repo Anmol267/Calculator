@@ -1,5 +1,6 @@
 h2{
 text-align:center;
+font-family: 'Ubuntu', sans-serif;
 }
 .button{
 padding:12px;
@@ -39,4 +40,9 @@ padding:12px;
 }
 .box{
 text-align:center;
+}
+body{
+background: url(img.jpg);
+background-size:cover;
+background-repeat: no-repeat;
 }
