@@ -26,16 +26,7 @@ input[type=text] {
  border-radius:20px;
  width:40px;
  background-color:#2B60DE;
- 
- }   
-.box{
-text-align:center;
-border:2px solid black;
-height:250px;
-width:300px;
-
-
-}
+ }
 .button:hover,.equal:hover{
 cursor:pointer;
 background-color:grey;
