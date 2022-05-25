@@ -1,48 +1,41 @@
-h2{
-text-align:center;
-font-family: 'Ubuntu', sans-serif;
-}
-.button{
-padding:12px;
-border:1px solid black;
-border-radius:20px;
-width:40px;
-margin-bottom:5px;
-
-}
-
-#screen{
-padding:10px;
-border:1px solid black;
-border-radius:5px;
-margin-bottom:5px;
-
-}    
- .equal{
- padding:12px;
- border:1px solid black;
- border-radius:20px;
- width:40px;
- background-color:#2B60DE;
- 
- }   
-
-.button:hover,.equal:hover{
-cursor:pointer;
-background-color:grey;
-}
-.red{
-padding:12px;
- border:1px solid black;
- border-radius:20px;
- width:40px;
- background-color:#F62817;
-}
 .box{
 text-align:center;
 }
+#screen{
+padding:20px;
+width:100%;
+background-color:white;
+border:none;
+font-size:30px;
+}
 body{
-background: url(img.jpg);
-background-size:cover;
-background-repeat: no-repeat;
+margin: 0;
+}
+.container{
+padding: 0;
+font-size: 0;
+}
+.one{
+padding:34px;
+font-size:30px;
+color:#7DF9FF;
+background-color:#F0FFFF;
+border:none;
+
+}
+.two{
+height:105px;
+width:98px;
+font-size:30px;
+color:#7DF9FF;
+background-color:#F0FFFF;
+border:none;
+
+}
+.button{
+padding:34px;
+font-size:30px;
+border:none;
+background-color:white;
+margin-left:0px;
 }
