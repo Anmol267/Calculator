@@ -3,7 +3,7 @@ text-align:center;
 }
 #screen{
 padding:20px;
-width:50%;
+width:40%;
 background-color:white;
 border:none;
 font-size:30px;
@@ -24,8 +24,8 @@ border:none;
 
 }
 .two{
-height:105px;
-width:98px;
+height:100px;
+width:100px;
 font-size:30px;
 color:#7DF9FF;
 background-color:#F0FFFF;
