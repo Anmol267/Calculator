@@ -1,33 +1,23 @@
-.box{
-text-align:center;
-}
-#screen{
-padding:20px;
-width:40%;
-background-color:white;
-border:none;
-font-size:15px;
-}
 body{
-margin: 0;
+display:flex;
+justify-content:center;
+background:#091921;
 }
-.container{
-padding: 0;
-font-size: 0;
-}
-.one{
-padding:20px;
-width:45px;
-font-size:20px;
-color:#7DF9FF;
-background-color:#F0FFFF;
-border:none;
+
+.style{
+text-align:center;
+background-color:#0c2835;
+background-size:500px 200px;
 }
 .button{
-padding:20px;
-width:45px;;
+padding:25px;
+margin-bottom:0px;
 font-size:20px;
+background-color:#0c2835;
+color:#fff;
 border:none;
-background-color:white;
-margin-left:0px;
+}
+input[type=text]{
+padding:20px;
+font-size:20px;
 }
