@@ -21,3 +21,11 @@ input[type=text]{
 padding:20px;
 font-size:20px;
 }
+.equal{
+padding:25px;
+margin-bottom:0px;
+font-size:20px;
+background-color:green;
+color:#fff;
+border:none;
+}
